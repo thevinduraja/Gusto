@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510553528553",
+    "project_id": "gusto-app-1",
+    "storage_bucket": "gusto-app-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510553528553:android:5cd687f5684a15bfe37878",
+        "android_client_info": {
+          "package_name": "com.example.gusto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510553528553-280t4ok7a0is9a4vi43rtol26nb1jm6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClTeP0WX6jRnC-8qLSJyzT8pvireR9yfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510553528553-280t4ok7a0is9a4vi43rtol26nb1jm6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
